@@ -1,5 +1,7 @@
 # Weekly-Counts-of-Death-by-Jurisdiction-and-Select-Causes-of-Death---Autism
-Exploratory Data Analysis uncovering causes and patterns for Alzhiemer's Death
+Exploratory Data Analysis uncovering causes and patterns for Different Causes of Death
+
+My Focus was on Alzheimers, but the presentation shows an analysis for even more causes of death.
 
 In order to run the program, you must download the attached CSVs and two others from WHO website, linked below:
 
