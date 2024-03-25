@@ -2,6 +2,7 @@
 Exploratory Data Analysis uncovering causes and patterns for Alzhiemer's Death
 
 In order to run the program, you must download the attached CSVs and two others from WHO website, linked below:
+
 Weekly Counts of Death by Jurisdiction and Select Causes of Death
 https://data.cdc.gov/NCHS/Weekly-Counts-of-Death-by-Jurisdiction-and-Select-/u6jv-9ijr/about_data
 
